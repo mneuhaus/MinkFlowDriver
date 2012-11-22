@@ -1,5 +1,5 @@
 {
-    "name":         "behat/mink-goutte-driver",
+    "name":         "famelo/mink-goutte-driver",
     "description":  "Goutte driver for Mink framework",
     "keywords":     ["goutte", "headless", "testing", "browser"],
     "homepage":     "http://mink.behat.org/",
@@ -21,7 +21,7 @@
         "fabpot/goutte":                 "@dev",
         "symfony/browser-kit":           "2.1.*@dev",
         "symfony/css-selector":          "2.1.*@dev",
-        "symfony/dom-crawler":           "2.1.*@dev",
+        "symfony/dom-crawler":           "*",
         "symfony/finder":                "2.1.*@dev",
         "symfony/process":               "2.1.*@dev"
     },
