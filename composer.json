@@ -1,5 +1,5 @@
 {
-    "name":         "famelo/mink-fow-driver",
+    "name":         "famelo/mink-flow-driver",
     "description":  "TYPO3.Flow driver for Mink framework",
     "keywords":     ["typo3", "headless", "testing", "browser"],
     "type":         "mink-driver",
